@@ -1,0 +1,95 @@
+[
+   {
+    "name": "India",
+    "states":[
+    {
+      "Maharashtra":[
+        {"name":"Nagpur"},
+          {"name":"Mumbai"},
+          {"name":"Pune"}], 
+
+      "Orrisa":[
+        {"name":"Cuttak"},
+        {"name":"Puri"},
+        {"name":"Bhubaneswar"}],
+      
+      "Haryana":[
+        {"name":"Gurgaon"}],
+      
+      "Uttarakhand":[
+        {"name":"Joshimath"},
+        {"name":"Haridwar"},
+        {"name":"Dehradun"},
+        {"name":"Rishikesh"}],
+      
+      "Uttar Pradesh":[
+        {"name":"Kanpur"},
+        {"name":"Lucknow"},
+        {"name":"Allahabad"},
+        {"name":"Ghaziabad"},
+        {"name":"Noida"}]
+    }
+    ]
+    },
+
+    {
+    "name": "USA",
+    "states":[
+    {
+      "Albama":[
+        {"name":"Montgomery"},
+          {"name":"Birmingham"},
+          {"name":""}], 
+
+      "Illinois":[
+        {"name":"Chicago"},
+        {"name":"Springfield"},
+        {"name":""}],
+      
+      "Kansas":[
+        {"name":"Topeka"},
+        {"name":"Wichita"},
+        {"name":""},
+        {"name":""}],
+      
+      "Taxas":[
+        {"name":"Austin"},
+        {"name":"Houston"},
+        {"name":""},
+        {"name":""},
+        {"name":"Noida"}]
+    }
+    ]
+    },
+    {
+    "name": "China",
+    "states":[
+    {
+      "Albama":[
+        {"name":"Montgomery"},
+          {"name":"Birmingham"},
+          {"name":""}], 
+
+      "Illinois":[
+        {"name":"Chicago"},
+        {"name":"Springfield"},
+        {"name":""}],
+      
+      "Kansas":[
+        {"name":"Topeka"},
+        {"name":"Wichita"},
+        {"name":""},
+        {"name":""}],
+      
+      "Taxas":[
+        {"name":"Austin"},
+        {"name":"Houston"},
+        {"name":""},
+        {"name":""},
+        {"name":"Noida"}]
+    }
+    ]
+    }
+   
+     ]
+  
